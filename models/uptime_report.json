@@ -1,0 +1,9 @@
+{
+  "n_requests": 500,
+  "successful_requests": 500,
+  "failed_requests": 0,
+  "measured_uptime_pct": 100.0,
+  "avg_latency_ms": 2.417,
+  "p95_latency_ms": 2.293,
+  "disclosure": "Illustrative local-serving metric measured by replaying requests against this process's Flask test client. It reflects local request-handling reliability, not a real production/cloud uptime SLA."
+}

@@ -1,0 +1,16 @@
+{
+  "model_type": "gradient_boosting",
+  "n_features": 109,
+  "n_train": 2544,
+  "n_test": 848,
+  "accuracy": 0.8821,
+  "precision": 0.8716,
+  "recall": 0.8962,
+  "f1_score": 0.8837,
+  "roc_auc": 0.9528,
+  "candidate_f1_scores": {
+    "gradient_boosting": 0.8837,
+    "random_forest": 0.8771
+  },
+  "positive_rate_test": 0.5
+}
